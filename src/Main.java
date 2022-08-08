@@ -57,6 +57,7 @@ public class Main {
                             System.out.println(i + 1 + ". " + orderProducts.get(i));
                         }
                     }
+                    break;
             }
         }
     }
